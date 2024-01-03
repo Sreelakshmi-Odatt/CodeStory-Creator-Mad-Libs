@@ -9,6 +9,7 @@ Welcome to CodeStory Creator, a simple mad libs program using Python. Users can 
 
 ## How to Use
 1. **Run the Python script:**
-2 . Input the words to create your own mad-libs story. 
+
+2 . **Input the words to create your own mad-libs story.** 
 
 
